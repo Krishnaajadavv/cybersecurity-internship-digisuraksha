@@ -1,2 +1,2 @@
-# cybersecurity-internship-digisuraksha
-Internship tasks and reports for Digisuraksha Parhari Foundation.
+# cybersecurity-Demo
+Internship tasks and reports.
